@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include unify360 *.css
+recursive-include unify360 *.csv
+recursive-include unify360 *.html
+recursive-include unify360 *.ico
+recursive-include unify360 *.js
+recursive-include unify360 *.json
+recursive-include unify360 *.md
+recursive-include unify360 *.png
+recursive-include unify360 *.py
+recursive-include unify360 *.svg
+recursive-include unify360 *.txt
+recursive-exclude unify360 *.pyc
