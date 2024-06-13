@@ -1,10 +1,12 @@
 from . import __version__ as app_version
 
-app_name = "unify360"
-app_title = "Unify360"
-app_publisher = "CodesSoft"
-app_description = "Unify 360"
-app_email = "shahid@codessoft.com"
+app_name = "u360app"
+app_title = "U360 App"
+app_publisher = "Digital Factory"
+app_description = "A description of U360 App"
+app_icon = "octicon octicon-file-directory"
+app_color = "grey"
+app_email = "infos@digitalfactory.sn"
 app_license = "MIT"
 
 # Includes in <head>
