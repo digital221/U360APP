@@ -1,7 +1,7 @@
 from . import __version__ as app_version
 
 app_name = "unify360"
-app_title = "U360 App"
+app_title = "Unify360"
 app_publisher = "Digital Factory"
 app_description = "A description of U360 App"
 app_icon = "octicon octicon-file-directory"
